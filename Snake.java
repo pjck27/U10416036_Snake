@@ -3,7 +3,7 @@
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.application.Application;
-import static javafx.application.Application.launch;
+import javafx.application.Application.launch;
 import javafx.collections.ObservableList;
 import javafx.scene.Group;
 import javafx.scene.Node;
